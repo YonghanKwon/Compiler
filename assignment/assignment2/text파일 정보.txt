@@ -1,0 +1,21 @@
+vtype		INT CHAR STRING BOOLEAN
+id		ID	~~
+semi		TERMINATING SYMBOL
+assign		ASSIGN OPER
+literal		LITERALSTRING	~~
+character	SINGLECHARATER	~~
+boolstr	BOOL STR	~~
+addsub	ARITH OPER	+ || ARITH OPER	-
+multdiv	ARITH OPER	* || ARITH OPER	/
+lparen		LPAREN
+rparen	RPAREN
+num		INTEGER	~~
+lbrace		LBRACE
+rbrace		RBRACE
+comma	COMMA
+if		IF
+while		WHILE
+comp		COMP OPER	~~
+else		ELSE
+return		RETURN
+class		CLASS

@@ -1,0 +1,191 @@
+s5
+0	class
+2	class
+3	class
+4	class
+
+s6
+0	vtype
+2	vtype
+3	vtype
+4	vtype	
+13	vtype	
+19	vtype
+20	vtype
+
+s10
+5	id
+
+s11
+6	id
+
+s13
+10	lbrace	
+
+s14
+11	semi
+62	semi
+
+s15
+11	lparen
+
+s16
+11	assign
+54	assign
+62	assign
+
+s17
+12	semi
+
+s22
+15	vtype
+
+s25
+16	literal
+57	literal
+
+s26
+16	character
+57	character
+
+s27
+16	boolstr
+57	boolstr
+
+s30
+16	lparen
+30	lparen
+38	lparen	
+39	lparen
+57	lparen
+
+s31
+16	id
+30
+38
+39
+57
+
+s32
+16	num
+30
+38
+39
+57
+
+s33
+18	rbrace
+
+s36
+21	rparen
+
+s37
+22	id
+
+s38
+24	addsub
+
+s39
+28	multdiv
+44
+
+s41
+36	lbrace
+
+s43
+37	comma
+63	comma
+
+s46
+40	rparen
+
+s51
+41	if
+48
+75
+77
+84
+
+s52
+41	while
+48
+75
+77
+84
+
+s53
+41	vtype
+48
+75
+77
+84
+
+s54
+41	id
+48
+75
+77
+84
+
+s55
+43	vtype
+
+s57
+47	return
+
+s59
+50	semi
+
+s60
+51	lparen
+
+s61
+52	lparen
+
+s62
+53	id
+
+s63
+55	id
+
+s64
+56	rbrace
+
+s68
+60	boolstr
+61
+73
+
+s71
+65	semi
+
+s72
+66	rparen
+
+s73
+66	comp
+69
+
+s74
+69	rparen
+
+s75
+72	lbrace
+
+s77
+74	lbrace
+
+s80
+78	rbarce
+
+s81
+79	rbrace
+
+s83
+80	else
+
+s84
+83	lbrace
+
+s86
+85	rbrace

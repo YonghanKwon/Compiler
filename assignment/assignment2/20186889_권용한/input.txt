@@ -1,0 +1,47 @@
+class MyFirstJavaProgram{
+    int func_a(int a, int b){
+	a = a * (-3) + b * 2;
+	return a;
+    }
+
+   int main(){
+	int a = 12;
+	int b = 10;
+	int c = -3;
+	boolean b_a = true;
+	char ac = 'a';
+	char ae = '\t';
+	string as = "String A include blank";
+	string ai = "int";
+	a = a + a;
+	a = a - a;
+	a = a * a;
+	a = a / a;
+	if(false){
+	    a = c;	
+	}
+	if(true){
+	    a = b;	
+	}
+	else{
+	    a = 4;
+	}
+	if (true){
+	    a = a + 3;	
+	}
+	if (false ){
+	    c = b;
+	}
+	if(true){
+	    b_a = false;	
+	}
+	while(true){
+	    c = a;	
+	}
+	if(false){
+	    a = c;	
+	}
+	return 0;
+    }
+
+}

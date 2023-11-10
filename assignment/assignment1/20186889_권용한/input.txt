@@ -1,0 +1,46 @@
+class MyFirstJavaProgram{
+    int func_a(int a, int b){
+	a = a * (-3) + b * 2;
+	return a;
+    }
+
+   int main(){
+	int a[100] = {12, -1, 5, 7};
+	int b = 10;
+	int c = -3;
+	boolean b_a = true;
+	char ac = 'a';
+	char ae = '\t';
+	string as = "String A include blank";
+	string ai = "int";
+	a[1] = a[1] + a[2];
+	a[1] = a[1] - a[2];
+	a[1] = a[1] * a[2];
+	a[1] = a[1] / a[2];
+	if(a[1] > a[3]){
+	    a[2] = a[3];	
+	}
+	if(a[1] >= a[3]){
+	    a[2] = a[3];	
+	}
+	else{
+	    a[1] = 4;
+	}
+	if (a[1] < a[3]){
+	    a[2] = a[3];	
+	}
+	if (a[1] <=a [3]){
+	    a[3] = func_a(a[1], a[3]);
+	}
+	if(a[1] == a[3]){
+	    b_a = false;	
+	}
+	while(b_a){
+	    a[1] = a[3];	
+	}
+	if(a[2] != a[3]){
+	    a[2] = a[3];	
+	}
+    }
+	return 0;
+}
